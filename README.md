@@ -1,9 +1,9 @@
 # HexSoftwares_Internship
 My work as a Data Science intern in Hex Softwares.
 # Week 1 Project 2
-# 🏠 Simple Linear Regression on Housing Prices
+# Simple Linear Regression on Housing Prices
 
-## 📌 Project Overview
+## Project Overview
 
 This project builds a **Linear Regression model** to 
 predict California housing prices using features like 
@@ -16,7 +16,7 @@ interpretation.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Load and explore the California Housing dataset
 - Perform data cleaning and outlier removal
@@ -27,7 +27,7 @@ interpretation.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 housing-price-prediction/
 │
