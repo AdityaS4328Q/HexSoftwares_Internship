@@ -244,10 +244,3 @@ This project is an interactive web-based data dashboard built using Python and S
 * **Interactive Visualizations:** Utilizes Plotly to generate dynamic bar charts analyzing video performance.
 * **State Management:** Implements `st.session_state` to ensure seamless data filtering and UI interaction without triggering unwanted API re-fetches.
 * **Custom Sorting:** Users can interactively sort the dashboard by 'Total Views' or 'Total Likes'.
-
-## 🚀 How to Run the App Locally
-
-### 1. Install Prerequisites
-Ensure you have Python installed, then install the required libraries via your terminal:
-```bash
-pip install streamlit google-api-python-client pandas plotly
